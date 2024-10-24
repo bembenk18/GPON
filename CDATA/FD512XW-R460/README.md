@@ -1,7 +1,8 @@
 ## telnet
-###user: root
-###password: R@0t$626!
-
+```
+user: root
+password: R@0t$626!
+```
 
 ```
 telnet 192.168.101.1 
