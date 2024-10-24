@@ -1,9 +1,9 @@
-### telnet
-user: root
-password: R@0t$626!
+## telnet
+###user: root
+###password: R@0t$626!
 
 
-
+```
 telnet 192.168.101.1 
 Trying 192.168.101.1...
 Connected to 192.168.101.1.
@@ -17,3 +17,4 @@ Escape character is '^]'.
 
 login: root
 Password: 
+```
